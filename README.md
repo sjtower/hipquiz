@@ -4,8 +4,8 @@ This bot is for the Hipmunk chatbot quiz: http://hipmunk.github.io/hipproblems/l
 
 ## Prerequisites
 
-# Python3
-# pip
+1. Python3
+2. pip
 
 The bot relies on a number of third-party libraries. Install them with pip from the root directory:
 
